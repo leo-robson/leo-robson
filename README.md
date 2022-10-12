@@ -37,7 +37,7 @@ I'm a 36 year old developer since I was 27. I love coding and figuring out how t
 </p>
 
 <p align="left">
-<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="96" height="36" alt="PostgreSQL" /></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="106" height="34" alt="PostgreSQL" /></a>
 </p>
 
 ### Socials
