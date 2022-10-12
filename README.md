@@ -38,6 +38,8 @@ I'm a 36 year old developer since I was 27. I love coding and figuring out how t
 
 <p align="left">
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="106" height="32" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="106" height="32" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="106" height="32" alt="PostgreSQL" /></a>
 </p>
 
 ### Socials
