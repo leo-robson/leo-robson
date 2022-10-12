@@ -25,9 +25,6 @@ I'm a 36 year old developer since I was 27. I love coding and figuring out how t
 * 🧠  I'm learning Advanced Javascript, Node.js, Docker
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
-<a href="https://github.com/leo-robson" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
