@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi 👋 My name is Léo
 ==========================
-
-Full Stack Software Developer
+Software Developer
 -----------------------------
 I'm a 36 year old developer since I was 27. I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is back-end development, making applications that impact the lives of thousands of users.
 
@@ -48,7 +47,7 @@ I'm a 36 year old developer since I was 27. I love coding and figuring out how t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=leo-robson&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
